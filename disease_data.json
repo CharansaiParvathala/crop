@@ -1,0 +1,10 @@
+{
+    "Leaf Blight": {
+        "solution": "Apply a copper-based fungicide and avoid overhead irrigation.",
+        "symptoms": ["Brown leaf spots", "Wilted leaves"]
+    },
+    "Powdery Mildew": {
+        "solution": "Use sulfur-based fungicides and ensure good air circulation.",
+        "symptoms": ["White powdery growth", "Yellowing leaves"]
+    }
+}
