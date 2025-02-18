@@ -6,5 +6,137 @@
     "Powdery Mildew": {
         "solution": "Use sulfur-based fungicides and ensure good air circulation.",
         "symptoms": ["White powdery growth", "Yellowing leaves"]
+    },
+    "Rust": {
+        "solution": "Apply fungicides with triazole or strobilurin, and remove infected leaves.",
+        "symptoms": ["Orange or red pustules", "Leaf deformation"]
+    },
+    "Downy Mildew": {
+        "solution": "Apply fungicides containing mancozeb or metalaxyl and reduce humidity.",
+        "symptoms": ["Yellowing of leaves", "White fuzzy growth under leaves"]
+    },
+    "Fusarium Wilt": {
+        "solution": "Use resistant varieties and improve soil drainage.",
+        "symptoms": ["Wilting leaves", "Yellowing leaves"]
+    },
+    "Anthracnose": {
+        "solution": "Remove infected plants and apply fungicides with chlorothalonil.",
+        "symptoms": ["Sunken lesions", "Brown spots with yellow halos"]
+    },
+    "Bacterial Leaf Spot": {
+        "solution": "Use copper-based bactericides and remove infected plant parts.",
+        "symptoms": ["Water-soaked lesions", "Dark brown spots with yellow margins"]
+    },
+    "Septoria Leaf Spot": {
+        "solution": "Use fungicides containing chlorothalonil and remove affected leaves.",
+        "symptoms": ["Small dark spots", "Yellow halos around spots"]
+    },
+    "Leaf Curl": {
+        "solution": "Prune infected parts and apply insecticides to control aphids.",
+        "symptoms": ["Curled, deformed leaves", "Yellowing of leaves"]
+    },
+    "Late Blight": {
+        "solution": "Apply fungicides with mefenoxam and remove infected plants immediately.",
+        "symptoms": ["Dark, water-soaked lesions", "Rapid decay of fruit"]
+    },
+    "Powdery Scab": {
+        "solution": "Improve soil drainage and apply fungicides with mancozeb.",
+        "symptoms": ["Powdery white lesions on roots", "Stunted plant growth"]
+    },
+    "Damping-Off": {
+        "solution": "Improve soil aeration, reduce watering, and use fungicides like thiabendazole.",
+        "symptoms": ["Seedling collapse", "Water-soaked lesions on stems"]
+    },
+    "Botrytis Blight": {
+        "solution": "Remove infected parts and apply fungicides with pyraclostrobin.",
+        "symptoms": ["Grayish mold on leaves", "Wilted flowers"]
+    },
+    "Chlorosis": {
+        "solution": "Correct soil pH and add iron or magnesium supplements.",
+        "symptoms": ["Yellowing of leaves", "Stunted growth"]
+    },
+    "Cercospora Leaf Spot": {
+        "solution": "Apply fungicides containing mancozeb or copper.",
+        "symptoms": ["Grayish lesions with dark borders", "Yellowing leaves"]
+    },
+    "Wilt Disease": {
+        "solution": "Improve irrigation systems and use fungicides with benomyl.",
+        "symptoms": ["Yellowing and wilting", "Stunted growth"]
+    },
+    "White Mold": {
+        "solution": "Remove infected plants and apply fungicides containing tebuconazole.",
+        "symptoms": ["White mold growth", "Rotting stems"]
+    },
+    "Crown Rot": {
+        "solution": "Improve soil drainage and apply fungicides like fludioxonil.",
+        "symptoms": ["Dark, sunken lesions at the base", "Rotting of plant crown"]
+    },
+    "Tomato Spotted Wilt Virus": {
+        "solution": "Remove infected plants and control thrips using insecticides.",
+        "symptoms": ["Spotted yellowing of leaves", "Distorted plant growth"]
+    },
+    "Peach Leaf Curl": {
+        "solution": "Apply copper fungicides and prune infected parts.",
+        "symptoms": ["Curled, deformed leaves", "Red spots on leaves"]
+    },
+    "Frost Damage": {
+        "solution": "Protect plants with row covers and use antifreeze sprays.",
+        "symptoms": ["Brown, scorched leaf tips", "Crispy, wilted leaves"]
+    },
+    "Mosaic Virus": {
+        "solution": "Remove infected plants and control insect vectors.",
+        "symptoms": ["Mosaic pattern on leaves", "Leaf curling and yellowing"]
+    },
+    "Gummy Stem Blight": {
+        "solution": "Apply fungicides like tebuconazole and prune infected stems.",
+        "symptoms": ["Sticky, oozing lesions", "Brown spots on stems and leaves"]
+    },
+    "Grey Mold": {
+        "solution": "Apply fungicides with boscalid or fludioxonil and improve ventilation.",
+        "symptoms": ["Grayish mold on leaves", "Wilting and collapsing stems"]
+    },
+    "Sclerotinia Rot": {
+        "solution": "Remove infected plants and apply fungicides containing pyraclostrobin.",
+        "symptoms": ["Soft, water-soaked lesions", "Cottony fungal growth on plant tissues"]
+    },
+    "Bacterial Wilt": {
+        "solution": "Remove infected plants and improve soil drainage.",
+        "symptoms": ["Wilting of plants", "Yellowing and drooping leaves"]
+    },
+    "Apple Scab": {
+        "solution": "Apply fungicides with myclobutanil and remove infected leaves.",
+        "symptoms": ["Olive-green lesions on leaves", "Dark lesions on fruits"]
+    },
+    "Citrus Canker": {
+        "solution": "Apply copper-based fungicides and prune affected branches.",
+        "symptoms": ["Raised, rough lesions on leaves", "Bitter fruit taste"]
+    },
+    "Black Rot": {
+        "solution": "Remove affected parts and apply fungicides with chlorothalonil.",
+        "symptoms": ["Black lesions on leaves", "Dry, dead spots on fruits"]
+    },
+    "Southern Blight": {
+        "solution": "Use soil fumigants and remove infected plant debris.",
+        "symptoms": ["White fungal growth at soil line", "Wilting and decay"]
+    },
+    "Fusarium Head Blight": {
+        "solution": "Apply fungicides containing tebuconazole and use resistant varieties.",
+        "symptoms": ["Bleached heads", "Rotting and shriveled kernels"]
+    },
+    "Cabbage Root Maggot": {
+        "solution": "Use insecticides with imidacloprid and practice crop rotation.",
+        "symptoms": ["Yellowing leaves", "Stunted growth"]
+    },
+    "Thrips Damage": {
+        "solution": "Apply insecticides containing spinosad and use yellow sticky traps.",
+        "symptoms": ["Silvery streaks on leaves", "Deformed flowers"]
+    },
+    "Leaf Miners": {
+        "solution": "Use insecticides with neem oil and remove infested leaves.",
+        "symptoms": ["Tunnels under leaf surface", "Spotted or streaked leaves"]
+    },
+    "Spider Mites": {
+        "solution": "Use miticides and increase humidity to discourage their spread.",
+        "symptoms": ["Fine webbing", "Yellow or stippled leaves"]
     }
 }
