@@ -1,0 +1,10 @@
+streamlit
+torch
+torchvision
+timm
+numpy
+opencv-python
+pillow
+matplotlib
+seaborn
+nltk
