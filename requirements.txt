@@ -3,8 +3,8 @@ torch
 torchvision
 timm
 numpy
-opencv-python
+opencv-python-headless
 pillow
 matplotlib
 seaborn
-nltk
+requests
